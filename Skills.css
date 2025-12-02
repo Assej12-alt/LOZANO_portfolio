@@ -1,0 +1,26 @@
+.skills-section {
+  padding: 80px 50px;
+  background-color: #ffffff;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.skills-section h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  color: #ffcc00;
+  text-align: center;
+}
+
+.skills-list {
+  list-style-type: disc; /* bullets */
+  max-width: 400px;      /* narrow for better alignment */
+  margin: 0 auto;        /* center horizontally */
+  padding-left: 20px;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.skills-list li {
+  margin-bottom: 10px;   /* spacing between bullets */
+}
